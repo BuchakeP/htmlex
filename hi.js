@@ -7,3 +7,4 @@ http.createServer(function (req, res) {
   res.end();
 }).listen(8080); 
 console.log(printed);
+console.log(hi branch2);
